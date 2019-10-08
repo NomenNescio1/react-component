@@ -13,7 +13,7 @@ export default Welcome; // Don’t forget to use export default!
 
 import React from 'react';
 const Welcome = (props)=>{
-  return(<h1>hola {props.name}</h1>);
+  return(<h1>Hola {props.name}</h1>);
 }
 
 export default Welcome;
